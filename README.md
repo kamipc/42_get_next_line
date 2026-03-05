@@ -1,3 +1,5 @@
+*This project has been created as part of the 42 curriculum by cpinho-c.*
+
 # Project get_next_line
 
 ## Module 1 of 42 Common Core
